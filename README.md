@@ -30,7 +30,7 @@ If your question is about the course material and doesn't give away any hints fo
 
 |           | Time      | Location  |
 |-----------|--------------|--------------|
-| Lecture | Monday 10 am-12 pm  | Zoom (see Quercus for details)    | 
+| Lecture | Monday 10 am-12 pm  | University College Room 179    | 
 
 <br>
 <br>
@@ -40,7 +40,8 @@ If your question is about the course material and doesn't give away any hints fo
 
 ## Announcements
 
- - **Jan 12**: Winter term starts! First Class! 
+ - **Jan 9**: Winter term starts! First class session! 
+ - **Jan 12**: First LMP1210 class session! 
 
 <br>
 <br>
@@ -116,15 +117,10 @@ RG = Roger Grosse's Notes
 | Type | Name | Description 
 |-----------|------------------------|---------
 |Related Textbooks| [Deep Learning (Goodfellow at al., 2016)](https://www.deeplearningbook.org/) | The Deep Learning textbook is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning.
-|-----------|------------------------|---------
 || [Pattern Recognition and Machine Learning (Bishop, 2006)](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) | Classic introductory text on machine learning, less emphasis on deep learning approaches.
-|-----------|------------------------|---------
 || [Information Theory, Inference, and Learning Algorithms (MacKay, 2003)](http://www.inference.org.uk/mackay/itprnn/book.html) | A good introduction textbook that combines information theory and machine learning.
-|-----------|------------------------|---------
 |General Framework| [PyTorch](http://pytorch.org/) | An open source deep learning platform that provides a seamless path from research prototyping to production deployment.
-|-----------|------------------------|---------
 |Computation Platform| [Colab](https://colab.research.google.com) | Colaboratory is a free Jupyter notebook environment that requires no setup and runs entirely in the cloud.
-|-----------|------------------------|---------
 || [GCE](https://cloud.google.com/compute/) | Google Compute Engine delivers virtual machines running in Google's innovative data centers and worldwide fiber network.
 || [AWS-EC2](https://aws.amazon.com/ec2/) | Amazon Elastic Compute Cloud (EC2) forms a central part of Amazon.com's cloud-computing platform, Amazon Web Services (AWS), by allowing users to rent virtual computers on which to run their own computer applications.
 
