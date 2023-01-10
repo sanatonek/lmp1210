@@ -69,19 +69,17 @@ Introduction to basic principles and current practices of machine learning in bi
 | **Assignment #3**   |    | March 20 2022
 | **Final Project**   |    |  April 10 2022
 
-Note: Assignment Solutions are on Quercus!
 
 <br/> 
 
 <br/> 
-<br>
 
 
 ---
 
 ## Calendar
 
-Suggested readings included help you understand the course material. They are not required, i.e. you are only responsible for the material covered in lecture. Most of the suggested reading listed are more advanced than the corresponding lecture, and are of interest if you want to know where our knowledge comes from or follow current frontiers of research. Please refer to the [Resource](#Resource) section for the texts.
+Suggested readings included help you understand the course material. They are not required, i.e. you are only responsible for the material covered in lecture. Most of the suggested reading listed are more advanced than the corresponding lecture, and are of interest if you want to know where our knowledge comes from or follow current frontiers of research. Please refer to the [Resources](#Resources) section for the texts.
 
 B = Pattern Recognition and Machine Learning (by Bishop)
 
