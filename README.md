@@ -42,6 +42,7 @@ If your question is about the course material and doesn't give away any hints fo
 
  - **Jan 9**: Winter term starts! First class session! 
  - **Jan 12**: First LMP1210 class session! 
+ - **Jan 19**: Assignment 1 Released, Due February 02!
 
 <br>
 <br>
