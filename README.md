@@ -65,7 +65,7 @@ Introduction to basic principles and current practices of machine learning in bi
 
 |           | Handout                | Due
 |-----------|------------------------|---------
-| **Assignment #1**   |    | February 2 2022
+| **Assignment #1**   |    | February 2 2023
 | **Assignment #2**   |    | TBA
 | **Assignment #3**   |    | TBA
 | **Final Project**   |    | TBA
