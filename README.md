@@ -10,8 +10,7 @@
 
 * Instructor: 
   * [Bo Wang](https://wanglab.ml/)
-  * Office hours: Wed 10-10:30 AM ([Zoom](https://vectorinstitute.zoom.us/j/94358623966?pwd=anRuS25kYVptRE5rWXNoVmVPT2d2Zz09
-), Meeting ID: 943 5862 3966, Password: lmp1210)
+  * Office hours: Wed 10-10:30 AM ([Zoom](https://vectorinstitute.zoom.us/j/89136190143?pwd=VlluYXZRZEkvS3M5YmlWYWZiV2hrdz09), Meeting ID: 891 3619 0143, Password: lmp1210)
   * Email: *bowang.wang@utoronto.ca*
 
 * Head TA: 
