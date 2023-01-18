@@ -64,7 +64,7 @@ Introduction to basic principles and current practices of machine learning in bi
 
 |           | Handout                | Due
 |-----------|------------------------|---------
-| **Assignment #1**   |  [Homework1](assets/misc/hw1.pdf), [data](assets/misc/hw1_data.pdf)  | February 2 2023
+| **Assignment #1**   |  [Homework1](assets/hw1.pdf), [data](assets/hw1_data.csv)  | February 2 2023
 | **Assignment #2**   |    | TBA
 | **Assignment #3**   |    | TBA
 | **Final Project**   |    | TBA
