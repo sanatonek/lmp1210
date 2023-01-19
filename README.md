@@ -102,8 +102,8 @@ RG = Roger Grosse's Notes
 | **Lecture&nbsp;8** | Mar 09   | Guest Lecturer: [Dr. Kiaren Campbell](https://www.camlab.ca) |  |   |
 | **Lecture&nbsp;9** | Mar 16  | Guest Lecturer: [Dr. Joseph Cafazzo](https://ihpme.utoronto.ca/faculty-profile/joe-a-cafazzo/) |  |   |
 | **Lecture&nbsp;10** | Mar 23  | Advanced deep learning methods for medical image analysis |  |  | Assignment #3 Due
-| **Lecture&nbsp;11** | Mar 30  | Term project in-class presentation |   |   |
-| **Lecture&nbsp;12** | Apr 06   | Term project in-class presentation |   |   |
+| **Lecture&nbsp;11** | Mar 30  | Term project presentation |   |   |
+| **Lecture&nbsp;12** | Apr 06   | Term project presentation |   |   |
 
 <br>
 <br>
