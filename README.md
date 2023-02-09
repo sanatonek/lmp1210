@@ -42,6 +42,7 @@ If your question is about the course material and doesn't give away any hints fo
  - **Jan 9**: Winter term starts! First class session! 
  - **Jan 12**: First LMP1210 class session! 
  - **Jan 19**: Assignment 1 Released, Due February 02!
+ - **Feb 2**: Assignment 2 Released, Due February 16!
 
 <br>
 <br>
@@ -95,7 +96,7 @@ RG = Roger Grosse's Notes
 | **Lecture&nbsp;2** | Jan 19 | Linear methods for regression and classification; tree-based classifier | [Slides](assets/slides/Lecture02.pdf)|  B: 3-4; RG: [Linear Regression](https://csc413-uoft.github.io/2021/assets/readings/L01a.pdf), [Linear Classifiers](https://csc413-uoft.github.io/2021/assets/readings/L01b.pdf), [Training a Classifier](https://csc413-uoft.github.io/2021/assets/readings/L01c.pdf), MK: p. 22-36 | 
 | **Lecture&nbsp;3** | Jan 26 | Introduction to Python; basic linear algebra; evaluation methods |  [Colab](https://colab.research.google.com/drive/1GjFs_E9k-zbAXpOOUMScaDNJbIXCbpvU?usp=sharing) | DL: 2, [David Liu's CSC110/111 Course Notes](https://www.teach.cs.toronto.edu/~csc110y/fall/notes/)  |
 | **Lecture&nbsp;4** | Feb 02  | ENSEMBLE-based methods; neural networks  |  [Slides](assets/slides/Lecture04.pdf)  |  DL: 6-8; RG: [Multilayer Perceptrons](https://csc413-uoft.github.io/2021/assets/readings/L02a.pdf), [Backpropagation (quite technical)](https://csc413-uoft.github.io/2021/assets/readings/L02b.pdf)  | Assignment #1 Due
-| **Lecture&nbsp;5** | Feb 09  | Supervised learning; Python tutorial for supervised learning practice  |  Slides, Colab  |   |
+| **Lecture&nbsp;5** | Feb 09  | Supervised learning; Python tutorial for supervised learning practice  |  Slides, [Colab](https://colab.research.google.com/drive/1cjYq1XL7qLrWa3qnSkFfdvV01Vxoxr0G?usp=sharing)  |   |
 | **Lecture&nbsp;6** | Feb 16  | Unsupervised learning for clustering: K-means, Gaussian mixture models | Slides  | B: 9; RG: [Mixture Models](https://www.cs.toronto.edu/~rgrosse/courses/csc311_f21/readings/Mixture%20Modeling.pdf)  | Assignment #2 Due
 | **Reading Week** | Feb 23  |   |  |   |
 | **Lecture&nbsp;7** | Mar 02   | Unsupervised learning for clustering: auto-encoder, graph-based methods; Python tutorial for unsupervised learning practice  | Slides, Colab |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  |
