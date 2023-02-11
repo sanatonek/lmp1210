@@ -72,7 +72,7 @@ Introduction to basic principles and current practices of machine learning in bi
 
 
 <br/> 
-
+Late Submission: 10% of the marks will be deducted for each day late, up to a maximum of 3 days. After that, no submissions will be accepted.
 <br/> 
 
 
