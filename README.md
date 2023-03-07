@@ -100,7 +100,7 @@ RG = Roger Grosse's Notes
 | **Lecture&nbsp;6** | Feb 16  | Unsupervised learning for clustering: K-means, Gaussian mixture models | [Slides](assets/slides/Lecture06.pdf)  | B: 9; RG: [Mixture Models](https://www.cs.toronto.edu/~rgrosse/courses/csc311_f21/readings/Mixture%20Modeling.pdf)  | Assignment #2 Due
 | **Reading Week** | Feb 23  |   |  |   |
 | **Lecture&nbsp;7** | Mar 02   | Unsupervised learning for clustering: auto-encoder, graph-based methods; Python tutorial for unsupervised learning practice  | [Slides](assets/slides/Lecture07.pdf), [Colab](https://colab.research.google.com/drive/1T-zM9rwGRZDn-xjtp20aactSraBIIP4w?usp=sharing) |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  |
-| **Lecture&nbsp;8** | Mar 09   | Guest Lecturer: [Dr. Kiaren Campbell](https://www.camlab.ca) |  |   |
+| **Lecture&nbsp;8** | Mar 09   | Guest Lecturer: [Dr. Kiaren Campbell](https://www.camlab.ca), Convolutional Neural Networks |  |   |
 | **Lecture&nbsp;9** | Mar 16  | Guest Lecturer: [Dr. Joseph Cafazzo](https://ihpme.utoronto.ca/faculty-profile/joe-a-cafazzo/) |  |   |
 | **Lecture&nbsp;10** | Mar 23  | Advanced deep learning methods for medical image analysis |  |  | Assignment #3 Due
 | **Lecture&nbsp;11** | Mar 30  | Term project presentation |   |   |
