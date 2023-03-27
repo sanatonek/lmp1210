@@ -103,7 +103,7 @@ RG = Roger Grosse's Notes
 | **Lecture&nbsp;7** | Mar 02   | Unsupervised learning for clustering: auto-encoder, graph-based methods; Python tutorial for unsupervised learning practice  | [Slides](assets/slides/Lecture07.pdf), [Colab](https://colab.research.google.com/drive/1T-zM9rwGRZDn-xjtp20aactSraBIIP4w?usp=sharing) |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  |
 | **Lecture&nbsp;8** | Mar 09   | Guest Lecturer: [Dr. Kiaren Campbell](https://www.camlab.ca), Convolutional Neural Networks | [Slides](assets/slides/CNN.pdf) |   |
 | **Lecture&nbsp;9** | Mar 16  | Guest Lecturer: [Dr. Joseph Cafazzo](https://ihpme.utoronto.ca/faculty-profile/joe-a-cafazzo/) |  |   |
-| **Lecture&nbsp;10** | Mar 23  | Advanced deep learning methods for medical image analysis |  |  | Assignment #3 Due
+| **Lecture&nbsp;10** | Mar 23  | Advanced deep learning methods for medical image analysis | Slides](assets/slides/Lecture10.pdf) |  | Assignment #3 Due
 | **Lecture&nbsp;11** | Mar 30  | Term project presentation |   |   |
 | **Lecture&nbsp;12** | Apr 06   | Term project presentation |   |   |
 
