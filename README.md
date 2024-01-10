@@ -22,7 +22,7 @@ If your question is about the course material and doesn't give away any hints fo
 |           | Time      | Location  |
 |-----------|--------------|--------------|
 | Lecture | Thursday 10:30 AM -12:30 PM  | Sydney Smith building, Room 1079  | 
-| Office hours | TBD  | TBD  | 
+| Office hours | Wednesday 9 AM - 10 AM  | Zoom (https://utoronto.zoom.us/j/83036528074), Meeting ID: 830 3652 8074, Passcode: LMP1210_24 | 
 
 <br>
 <br>
