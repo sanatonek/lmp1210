@@ -46,7 +46,7 @@ Introduction to basic principles and current practices of machine learning in bi
 |           | Handout                | Due
 |-----------|------------------------|---------
 | **Math Diagnostics**   |  [Handout](files/pdfs/math_diagnostic.pdf)  | January 18 2023
-| **Assignment #1**   |  [Handout](files/assignments/hw1.pdf) [Data](files/assignments/hw1_data.csv) | February 1 2023
+| **Assignment #1**   |  [Handout](files/assignments/hw1.pdf), [Data](files/assignments/hw1_data.csv) | February 1 2023
 | **Assignment #2**   |  TBD  | February 15 2023
 | **Assignment #3**   | TBD | March 7 2023
 | **Final Project**   | TBD  | February 29 2023 (Proposal)
