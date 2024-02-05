@@ -116,8 +116,8 @@ RG = Roger Grosse's Notes
 | **Lecture&nbsp;4** | Feb 01  | Neural networks  | [Slides](files/slides/L4-Neural_networks.pdf) |  DL: 6-8; RG: [Multilayer Perceptrons](https://csc413-uoft.github.io/2021/assets/readings/L02a.pdf), [Backpropagation (quite technical)](https://csc413-uoft.github.io/2021/assets/readings/L02b.pdf)  | Assignment #1 Due
 | **Lecture&nbsp;5** | Feb 08  | Ensemble models; Python tutorial for supervised learning practice  |  Slides, Colab  |   |
 | **Lecture&nbsp;6** | Feb 15  | Unsupervised learning for clustering: K-means, Gaussian mixture models | Slides  | B: 9; RG: [Mixture Models](https://www.cs.toronto.edu/~rgrosse/courses/csc311_f21/readings/Mixture%20Modeling.pdf)  | Assignment #2 Due
-| **Reading Week** | Feb 22  |   |  |   |
-| **Lecture&nbsp;7** | Feb 29   | Unsupervised learning for clustering: auto-encoder, graph-based methods; Python tutorial for unsupervised learning practice  | Slides, Colab |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  | Final project proposal Due
+| **Reading Week** | Feb 22  |   |  |   | Final project proposal Due
+| **Lecture&nbsp;7** | Feb 29   | Unsupervised learning for clustering: auto-encoder, graph-based methods; Python tutorial for unsupervised learning practice  | Slides, Colab |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  | 
 | **Lecture&nbsp;8** | Mar 07   | Guest Lecturer: TBD |  |   | Assignment #3 Due
 | **Lecture&nbsp;9** | Mar 14  | Guest Lecturer: TBD |  |   |
 | **Lecture&nbsp;10** | Mar 21  | Advanced deep learning methods for medical image analysis | Slides |  | 
