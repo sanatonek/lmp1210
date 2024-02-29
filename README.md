@@ -117,8 +117,8 @@ RG = Roger Grosse's Notes
 | **Lecture&nbsp;5** | Feb 08  | Ensemble models; Python tutorial for supervised learning practice  |  [Slides](files/slides/L5-Ensembles.pdf) [Colab](https://colab.research.google.com/drive/1UARJRLQ0L8KfpoZDu8W_zikn1ygq3nPm?usp=sharing)  |  |
 | **Lecture&nbsp;6** | Feb 15  | Unsupervised learning for clustering: K-means, Gaussian mixture models | [Slides](files/slides/L7.pdf)  | B: 9; RG: [Mixture Models](https://www.cs.toronto.edu/~rgrosse/courses/csc311_f21/readings/Mixture%20Modeling.pdf)  | Assignment #2 Due
 | **Reading Week** | Feb 22  |   |  |   | Final project proposal Due
-| **Lecture&nbsp;7** | Feb 29   | Unsupervised learning for clustering; Python tutorial for unsupervised learning practice  | Slides, [Colab](https://colab.research.google.com/drive/1umAgt761zs9mvsEtVyiSbmBMVW91NBC_?usp=sharing) |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  | 
-| **Lecture&nbsp;8** | Mar 07   | Guest Lecturer: TBD |  |   | Assignment #3 Due
+| **Lecture&nbsp;7** | Feb 29   | Unsupervised learning for clustering; Python tutorial for unsupervised learning practice  | [Slides](files/slides/L7-Dimentionality_reduction.pdf), [Colab](https://colab.research.google.com/drive/1umAgt761zs9mvsEtVyiSbmBMVW91NBC_?usp=sharing) |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  | 
+| **Lecture&nbsp;8** | Mar 07   | Office hours for the final project |  |   | Assignment #3 Due
 | **Lecture&nbsp;9** | Mar 14  | Guest Lecturer: TBD |  |   |
 | **Lecture&nbsp;10** | Mar 21  | Advanced deep learning methods for medical image analysis | Slides |  | 
 | **Lecture&nbsp;11** | Mar 28  | Term project presentation |   |   |
