@@ -48,7 +48,7 @@ Introduction to basic principles and current practices of machine learning in bi
 | **Math Diagnostics**   |  [Handout](files/pdfs/math_diagnostic.pdf)  | January 18 2023
 | **Assignment #1**   |  [Handout](files/assignments/hw1.pdf), [Data](files/assignments/hw1_data.csv) | February 1 2023
 | **Assignment #2**   |  [Handout](files/assignments/hw2.pdf), [Data](files/assignments/hw2_data.csv)  | February 15 2023
-| **Assignment #3**   | TBD | March 7 2023
+| **Assignment #3**   | [Handout](files/assignments/hw3.pdf), [Data](files/assignments/A3_data.zip) | March 7 2023
 | **Final Project**   | [Handout](files/pdfs/project_handout.pdf)  | February 22 2023 (Proposal)
 
 
@@ -117,7 +117,7 @@ RG = Roger Grosse's Notes
 | **Lecture&nbsp;5** | Feb 08  | Ensemble models; Python tutorial for supervised learning practice  |  [Slides](files/slides/L5-Ensembles.pdf) [Colab](https://colab.research.google.com/drive/1UARJRLQ0L8KfpoZDu8W_zikn1ygq3nPm?usp=sharing)  |  |
 | **Lecture&nbsp;6** | Feb 15  | Unsupervised learning for clustering: K-means, Gaussian mixture models | [Slides](files/slides/L7.pdf)  | B: 9; RG: [Mixture Models](https://www.cs.toronto.edu/~rgrosse/courses/csc311_f21/readings/Mixture%20Modeling.pdf)  | Assignment #2 Due
 | **Reading Week** | Feb 22  |   |  |   | Final project proposal Due
-| **Lecture&nbsp;7** | Feb 29   | Unsupervised learning for clustering: auto-encoder, graph-based methods; Python tutorial for unsupervised learning practice  | Slides, Colab |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  | 
+| **Lecture&nbsp;7** | Feb 29   | Unsupervised learning for clustering; Python tutorial for unsupervised learning practice  | Slides, [Colab](https://colab.research.google.com/drive/1umAgt761zs9mvsEtVyiSbmBMVW91NBC_?usp=sharing) |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  | 
 | **Lecture&nbsp;8** | Mar 07   | Guest Lecturer: TBD |  |   | Assignment #3 Due
 | **Lecture&nbsp;9** | Mar 14  | Guest Lecturer: TBD |  |   |
 | **Lecture&nbsp;10** | Mar 21  | Advanced deep learning methods for medical image analysis | Slides |  | 
