@@ -119,8 +119,8 @@ RG = Roger Grosse's Notes
 | **Reading Week** | Feb 22  |   |  |   | Final project proposal Due
 | **Lecture&nbsp;7** | Feb 29   | Unsupervised learning for clustering; Python tutorial for unsupervised learning practice  | [Slides](files/slides/L7-Dimentionality_reduction.pdf), [Colab](https://colab.research.google.com/drive/1umAgt761zs9mvsEtVyiSbmBMVW91NBC_?usp=sharing) |  [Jaan Altosaar's VAE Tutorial](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/); [Introduction to VAEs (Kingma and Welling)](https://arxiv.org/abs/1906.02691)  | 
 | **Lecture&nbsp;8** | Mar 07   | Office hours for the final project |  |   | Assignment #3 Due
-| **Lecture&nbsp;9** | Mar 14  | Guest Lecturer: TBD |  |   |
-| **Lecture&nbsp;10** | Mar 21  | Advanced deep learning methods for medical image analysis | Slides |  | 
+| **Lecture&nbsp;9** | Mar 14  | Guest Lecturer: Dr. Robert Grant (Machine Learning in Oncology)|  |   |
+| **Lecture&nbsp;10** | Mar 21  | Advanced deep learning methods for medical image analysis | [Slides](files/slides/L10.pdf) |  | 
 | **Lecture&nbsp;11** | Mar 28  | Term project presentation |   |   |
 | **Lecture&nbsp;12** | Apr 04   | Term project presentation |   |   |
 
